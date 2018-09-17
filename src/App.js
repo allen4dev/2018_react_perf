@@ -1,11 +1,16 @@
 import React, { Component } from 'react';
+import { ThemeProvider } from 'styled-components';
+
+import Home from 'components/pages/Home';
+
+import theme from './theme';
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <h1>Content here</h1>
-      </div>
+      <ThemeProvider theme={theme}>
+        <Home />
+      </ThemeProvider>
     );
   }
 }
