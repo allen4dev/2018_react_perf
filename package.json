@@ -4,9 +4,12 @@
   "private": true,
   "dependencies": {
     "json-server": "^0.14.0",
+    "normalizr": "^3.2.4",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
-    "react-scripts": "1.1.5"
+    "react-redux": "^5.0.7",
+    "react-scripts": "1.1.5",
+    "redux": "^4.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
