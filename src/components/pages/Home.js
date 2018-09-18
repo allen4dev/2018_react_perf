@@ -2,17 +2,33 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import styled from 'styled-components';
 
-import ServantList from 'components/shared/ServantList';
+import ListOne from 'components/shared/ListOne';
+import ListTwo from 'components/shared/ListTwo';
 
 import { fetchAll } from 'actions/servants';
 
-const Wrapper = styled.section``;
+const Wrapper = styled.section`
+  height: 100vh;
+  text-align: center;
+`;
+
+const Input = styled.input`
+  margin: 1rem;
+  padding: 0.5rem;
+`;
+
+const Lists = styled.section`
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 1rem;
+`;
 
 // const servants = Array(10).fill({});
 
 class Home extends Component {
   state = {
     loading: true,
+    value: '',
   };
 
   async componentDidMount() {
@@ -24,22 +40,39 @@ class Home extends Component {
     this.setState({ loading: false });
   }
 
+  handleChange = e => {
+    this.setState({ value: e.target.value });
+  };
+
   render() {
     if (this.state.loading) return <h1>Loading...</h1>;
 
-    const { servants } = this.props;
+    const { servants, byId } = this.props;
 
     return (
       <Wrapper>
-        <ServantList servants={servants} />
+        <Input
+          type="text"
+          placeholder="Writte something"
+          value={this.state.value}
+          onChange={this.handleChange}
+        />
+        <Lists>
+          <ListOne servants={servants} />
+          <ListTwo ids={byId} />
+        </Lists>
       </Wrapper>
     );
   }
 }
 
 function mapStateToProps(state) {
+  const { entities, byId } = state.servants;
+  const servants = Object.values(entities);
+
   return {
-    servants: state.servants,
+    servants,
+    byId,
   };
 }
 

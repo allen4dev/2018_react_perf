@@ -1,8 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
 
-import src from 'images/default.jpg';
-
 const Wrapper = styled.article`
   border: 4px solid #bada55;
 `;
@@ -20,7 +18,7 @@ const Img = styled.img`
   max-width: 100%;
 `;
 
-const Servant = ({ servant }) => {
+const ItemOne = ({ servant }) => {
   return (
     <Wrapper>
       <Title>{servant.name}</Title>
@@ -31,4 +29,4 @@ const Servant = ({ servant }) => {
   );
 };
 
-export default Servant;
+export default ItemOne;
