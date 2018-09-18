@@ -8,17 +8,18 @@ import ListTwo from 'components/shared/ListTwo';
 import { fetchAll } from 'actions/servants';
 
 const Wrapper = styled.section`
-  height: 100vh;
   text-align: center;
 `;
 
 const Input = styled.input`
   margin: 1rem;
   padding: 0.5rem;
+  height: 4rem;
 `;
 
 const Lists = styled.section`
   display: grid;
+  height: calc(100vh - 4rem);
   grid-template-columns: 1fr 1fr;
   grid-gap: 1rem;
 `;

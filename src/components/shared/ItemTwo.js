@@ -34,12 +34,18 @@ class ItemTwo extends Component {
   }
 }
 
-function mapStateToProps(state, { id }) {
-  const servant = state.servants.entities[id];
+const makeMapStateToProps = (initialState, initialOwnProps) => {
+  const { id } = initialOwnProps;
+  const mapStateToProps = state => {
+    const { servants } = initialState;
+    const servant = servants.entities[id];
 
-  return {
-    servant,
+    return {
+      servant,
+    };
   };
-}
 
-export default connect(mapStateToProps)(ItemTwo);
+  return mapStateToProps;
+};
+
+export default connect(makeMapStateToProps)(ItemTwo);
