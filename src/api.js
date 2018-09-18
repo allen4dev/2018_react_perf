@@ -6,9 +6,7 @@ const servantsUrl = `${baseUrl}/servants`;
 export default {
   servants: {
     async all() {
-      console.log(servantsUrl);
-      const response = await axios.get(servantsUrl);
-      return response;
+      return await axios.get(servantsUrl);
     },
   },
 };

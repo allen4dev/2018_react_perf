@@ -7,17 +7,18 @@ const Wrapper = styled.section`
   border: 4px solid red;
   margin: auto;
   padding: 0.5rem;
-  width: 70%;
+  width: 80%;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   grid-gap: 0.5rem;
 `;
 
 const ServantList = ({ servants }) => {
+  console.log(servants);
   return (
     <Wrapper>
-      {servants.map(({ servant }) => (
-        <Servant servant={servant} />
+      {servants.map(servant => (
+        <Servant key={servant.id} servant={servant} />
       ))}
     </Wrapper>
   );

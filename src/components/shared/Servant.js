@@ -20,12 +20,12 @@ const Img = styled.img`
   max-width: 100%;
 `;
 
-const Servant = () => {
+const Servant = ({ servant }) => {
   return (
     <Wrapper>
-      <Title>Miyamoto musashi</Title>
+      <Title>{servant.name}</Title>
       <Photo>
-        <Img src={src} />
+        <Img src={servant.img4} />
       </Photo>
     </Wrapper>
   );

@@ -1,11 +1,9 @@
 import { combineReducers } from 'redux';
 
-function dummieReducer() {
-  return [];
-}
+import servants from './servants';
 
 const rootReducer = combineReducers({
-  dummie: dummieReducer,
+  servants,
 });
 
 export default rootReducer;
