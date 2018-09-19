@@ -12,7 +12,7 @@ const Wrapper = styled.section`
   overflow-y: scroll;
 `;
 
-const ServantList = ({ servants }) => {
+const UnperformantList = ({ servants }) => {
   return (
     <Wrapper>
       {servants.map(servant => (
@@ -22,4 +22,4 @@ const ServantList = ({ servants }) => {
   );
 };
 
-export default ServantList;
+export default UnperformantList;

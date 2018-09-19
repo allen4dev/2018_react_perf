@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import styled from 'styled-components';
 
-import ListOne from 'components/shared/UnperformantList/ServantList';
-import ListTwo from 'components/shared/PerformantList/ServantList';
+import UnperformantList from 'components/shared/UnperformantList';
+import PerformantList from 'components/shared/PerformantList';
 
 import { fetchAll } from 'actions/servants';
 
@@ -59,8 +59,8 @@ class Home extends Component {
           onChange={this.handleChange}
         />
         <Lists>
-          <ListOne servants={servants} />
-          <ListTwo ids={byId} />
+          <UnperformantList servants={servants} />
+          <PerformantList ids={byId} />
         </Lists>
       </Wrapper>
     );
