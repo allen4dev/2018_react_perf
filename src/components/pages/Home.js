@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import styled from 'styled-components';
 
-import ListOne from 'components/shared/ListOne';
-import ListTwo from 'components/shared/ListTwo';
+import ListOne from 'components/shared/UnperformantList/ServantList';
+import ListTwo from 'components/shared/PerformantList/ServantList';
 
 import { fetchAll } from 'actions/servants';
 

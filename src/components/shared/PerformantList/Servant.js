@@ -19,7 +19,7 @@ const Img = styled.img`
   max-width: 100%;
 `;
 
-class ItemTwo extends Component {
+class Servant extends Component {
   render() {
     const { servant } = this.props;
 
@@ -48,4 +48,4 @@ const makeMapStateToProps = (initialState, initialOwnProps) => {
   return mapStateToProps;
 };
 
-export default connect(makeMapStateToProps)(ItemTwo);
+export default connect(makeMapStateToProps)(Servant);

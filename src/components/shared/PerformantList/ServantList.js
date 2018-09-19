@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-import ItemTwo from './ItemTwo';
+import Servant from './Servant';
 
 const Wrapper = styled.section`
   border: 4px solid red;
@@ -12,14 +12,14 @@ const Wrapper = styled.section`
   overflow-y: scroll;
 `;
 
-const ListTwo = ({ ids }) => {
+const ServantList = ({ ids }) => {
   return (
     <Wrapper>
       {ids.map(id => (
-        <ItemTwo key={id} id={id} />
+        <Servant key={id} id={id} />
       ))}
     </Wrapper>
   );
 };
 
-export default ListTwo;
+export default ServantList;

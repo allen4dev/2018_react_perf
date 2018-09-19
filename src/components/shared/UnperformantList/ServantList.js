@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-import ItemOne from './ItemOne';
+import Servant from './Servant';
 
 const Wrapper = styled.section`
   border: 4px solid red;
@@ -12,14 +12,14 @@ const Wrapper = styled.section`
   overflow-y: scroll;
 `;
 
-const ListOne = ({ servants }) => {
+const ServantList = ({ servants }) => {
   return (
     <Wrapper>
       {servants.map(servant => (
-        <ItemOne key={servant.id} servant={servant} />
+        <Servant key={servant.id} servant={servant} />
       ))}
     </Wrapper>
   );
 };
 
-export default ListOne;
+export default ServantList;

@@ -18,7 +18,7 @@ const Img = styled.img`
   max-width: 100%;
 `;
 
-const ItemOne = ({ servant }) => {
+const Servant = ({ servant }) => {
   return (
     <Wrapper>
       <Title>{servant.name}</Title>
@@ -29,4 +29,4 @@ const ItemOne = ({ servant }) => {
   );
 };
 
-export default ItemOne;
+export default Servant;
