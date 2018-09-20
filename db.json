@@ -13,12 +13,12 @@
       "grail_atk": 10575,
       "grail_hp": 15619,
       "growth_curve": "Linear",
-      "id": 1,
+      "id": "1",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0011.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0012.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0013.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0014.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0014.png",
+
       "max_atk": 6791,
       "max_hp": 10302,
       "name": "Mash Kyrielight",
@@ -62,12 +62,12 @@
       "grail_atk": 12283,
       "grail_hp": 16597,
       "growth_curve": "Linear",
-      "id": 2,
+      "id": "2",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0021.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0022.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0023.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0024.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0023.png",
+
       "max_atk": 11221,
       "max_hp": 15150,
       "name": "Altria Pendragon",
@@ -116,12 +116,12 @@
       "grail_atk": 12408,
       "grail_hp": 14051,
       "growth_curve": "S",
-      "id": 3,
+      "id": "3",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0031.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0032.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0033.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0034.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0033.png",
+
       "max_atk": 10248,
       "max_hp": 11589,
       "name": "Altria Pendragon (Alter)",
@@ -170,12 +170,12 @@
       "grail_atk": 9355,
       "grail_hp": 12880,
       "growth_curve": "S",
-      "id": 4,
+      "id": "4",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0041.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0042.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0043.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0044.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0043.png",
+
       "max_atk": 7726,
       "max_hp": 10623,
       "name": "Altria Pendragon (Lily)",
@@ -224,12 +224,12 @@
       "grail_atk": 11441,
       "grail_hp": 14250,
       "growth_curve": "Reverse S",
-      "id": 5,
+      "id": "5",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0051.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0052.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0053.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0054.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0053.png",
+
       "max_atk": 9449,
       "max_hp": 11753,
       "name": "Nero Claudius",
@@ -278,12 +278,12 @@
       "grail_atk": 9905,
       "grail_hp": 17175,
       "growth_curve": "S",
-      "id": 6,
+      "id": "6",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0061.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0062.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0063.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0064.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0063.png",
+
       "max_atk": 8181,
       "max_hp": 14165,
       "name": "Siegfried",
@@ -332,12 +332,12 @@
       "grail_atk": 10146,
       "grail_hp": 13009,
       "growth_curve": "S",
-      "id": 7,
+      "id": "7",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0071.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0072.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0073.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0074.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0073.png",
+
       "max_atk": 7497,
       "max_hp": 9595,
       "name": "Gaius Julius Caesar",
@@ -386,12 +386,12 @@
       "grail_atk": 13511,
       "grail_hp": 15236,
       "growth_curve": "Linear",
-      "id": 8,
+      "id": "8",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0081.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0082.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0083.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0084.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0083.png",
+
       "max_atk": 12343,
       "max_hp": 13907,
       "name": "Altera",
@@ -440,12 +440,12 @@
       "grail_atk": 8952,
       "grail_hp": 14234,
       "growth_curve": "S",
-      "id": 9,
+      "id": "9",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0091.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0092.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0093.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0094.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0093.png",
+
       "max_atk": 6615,
       "max_hp": 10498,
       "name": "Gilles de Rais",
@@ -494,12 +494,12 @@
       "grail_atk": 10613,
       "grail_hp": 16073,
       "growth_curve": "Reverse S",
-      "id": 10,
+      "id": "10",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0101.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0102.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0103.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0104.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0103.png",
+
       "max_atk": 8765,
       "max_hp": 13256,
       "name": "Chevalier d'Eon",
@@ -548,12 +548,12 @@
       "grail_atk": 11379,
       "grail_hp": 13969,
       "growth_curve": "S",
-      "id": 11,
+      "id": "11",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0111.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0112.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0113.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0114.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0113.png",
+
       "max_atk": 9398,
       "max_hp": 11521,
       "name": "EMIYA",
@@ -602,12 +602,12 @@
       "grail_atk": 13442,
       "grail_hp": 14348,
       "growth_curve": "Reverse S",
-      "id": 12,
+      "id": "12",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0121.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0122.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0123.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0124.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0123.png",
+
       "max_atk": 12280,
       "max_hp": 13097,
       "name": "Gilgamesh",
@@ -656,12 +656,12 @@
       "grail_atk": 9088,
       "grail_hp": 13812,
       "growth_curve": "Linear",
-      "id": 13,
+      "id": "13",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0131.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0132.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0133.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0134.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0133.png",
+
       "max_atk": 6715,
       "max_hp": 10187,
       "name": "Robin Hood",
@@ -710,12 +710,12 @@
       "grail_atk": 10453,
       "grail_hp": 15127,
       "growth_curve": "Reverse S",
-      "id": 14,
+      "id": "14",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0141.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0142.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0143.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0144.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0143.png",
+
       "max_atk": 8633,
       "max_hp": 12476,
       "name": "Atalante",
@@ -764,12 +764,12 @@
       "grail_atk": 9517,
       "grail_hp": 12889,
       "growth_curve": "Linear",
-      "id": 15,
+      "id": "15",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0151.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0152.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0153.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0154.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0153.png",
+
       "max_atk": 7032,
       "max_hp": 9506,
       "name": "Euryale",
@@ -818,12 +818,12 @@
       "grail_atk": 9037,
       "grail_hp": 10979,
       "growth_curve": "Linear",
-      "id": 16,
+      "id": "16",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0161.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0162.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0163.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0164.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0163.png",
+
       "max_atk": 5816,
       "max_hp": 7122,
       "name": "Arash",
@@ -872,12 +872,12 @@
       "grail_atk": 9797,
       "grail_hp": 13007,
       "growth_curve": "Reverse S",
-      "id": 17,
+      "id": "17",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0171.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0172.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0173.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0174.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0173.png",
+
       "max_atk": 7239,
       "max_hp": 9593,
       "name": "Cu Chulainn",
@@ -926,12 +926,12 @@
       "grail_atk": 11045,
       "grail_hp": 14392,
       "growth_curve": "Linear",
-      "id": 18,
+      "id": "18",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0181.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0182.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0183.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0184.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0183.png",
+
       "max_atk": 9122,
       "max_hp": 11870,
       "name": "Elisabeth Bathory",
@@ -980,12 +980,12 @@
       "grail_atk": 8406,
       "grail_hp": 13204,
       "growth_curve": "Reverse S",
-      "id": 19,
+      "id": "19",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0191.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0192.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0193.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0194.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0193.png",
+
       "max_atk": 5801,
       "max_hp": 9149,
       "name": "Musashibou Benkei",
@@ -1033,12 +1033,12 @@
       "grail_atk": 9584,
       "grail_hp": 13691,
       "growth_curve": "S",
-      "id": 20,
+      "id": "20",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0201.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0202.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0203.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0204.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0203.png",
+
       "max_atk": 7082,
       "max_hp": 10098,
       "name": "Cu Chulainn (Prototype)",
@@ -1087,12 +1087,12 @@
       "grail_atk": 9539,
       "grail_hp": 11486,
       "growth_curve": "Reverse S",
-      "id": 21,
+      "id": "21",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0211.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0212.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0213.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0214.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0213.png",
+
       "max_atk": 6583,
       "max_hp": 7959,
       "name": "Leonidas",
@@ -1141,12 +1141,12 @@
       "grail_atk": 9797,
       "grail_hp": 13400,
       "growth_curve": "Linear",
-      "id": 22,
+      "id": "22",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0221.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0222.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0223.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0224.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0223.png",
+
       "max_atk": 7239,
       "max_hp": 9883,
       "name": "Romulus",
@@ -1195,12 +1195,12 @@
       "grail_atk": 9744,
       "grail_hp": 12117,
       "growth_curve": "Linear",
-      "id": 23,
+      "id": "23",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0231.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0232.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0233.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0234.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0233.png",
+
       "max_atk": 7200,
       "max_hp": 8937,
       "name": "Medusa",
@@ -1249,12 +1249,12 @@
       "grail_atk": 7587,
       "grail_hp": 13278,
       "growth_curve": "Linear",
-      "id": 24,
+      "id": "24",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0241.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0242.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0243.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0244.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0243.png",
+
       "max_atk": 5236,
       "max_hp": 9200,
       "name": "Georgios",
@@ -1303,12 +1303,12 @@
       "grail_atk": 8967,
       "grail_hp": 11411,
       "growth_curve": "S",
-      "id": 25,
+      "id": "25",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0251.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0252.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0253.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0254.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0253.png",
+
       "max_atk": 6188,
       "max_hp": 7907,
       "name": "Edward Teach",
@@ -1357,12 +1357,12 @@
       "grail_atk": 8511,
       "grail_hp": 13735,
       "growth_curve": "Linear",
-      "id": 26,
+      "id": "26",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0261.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0262.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0263.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0264.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0263.png",
+
       "max_atk": 6289,
       "max_hp": 10130,
       "name": "Boudica",
@@ -1411,12 +1411,12 @@
       "grail_atk": 9576,
       "grail_hp": 12240,
       "growth_curve": "Reverse S",
-      "id": 27,
+      "id": "27",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0271.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0272.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0273.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0274.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0273.png",
+
       "max_atk": 7076,
       "max_hp": 9028,
       "name": "Ushiwakamaru",
@@ -1465,12 +1465,12 @@
       "grail_atk": 9955,
       "grail_hp": 11714,
       "growth_curve": "Linear",
-      "id": 28,
+      "id": "28",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0281.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0282.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0283.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0284.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0283.png",
+
       "max_atk": 7356,
       "max_hp": 8640,
       "name": "Alexander",
@@ -1519,12 +1519,12 @@
       "grail_atk": 10041,
       "grail_hp": 14972,
       "growth_curve": "Reverse S",
-      "id": 29,
+      "id": "29",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0291.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0292.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0293.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0294.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0293.png",
+
       "max_atk": 8293,
       "max_hp": 12348,
       "name": "Marie Antoinette",
@@ -1573,12 +1573,12 @@
       "grail_atk": 9703,
       "grail_hp": 15845,
       "growth_curve": "Linear",
-      "id": 30,
+      "id": "30",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0301.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0302.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0303.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0304.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0303.png",
+
       "max_atk": 8014,
       "max_hp": 13068,
       "name": "Saint Martha",
@@ -1627,12 +1627,12 @@
       "grail_atk": 10039,
       "grail_hp": 11719,
       "growth_curve": "S",
-      "id": 31,
+      "id": "31",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0311.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0312.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0313.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0314.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0313.png",
+
       "max_atk": 7418,
       "max_hp": 8643,
       "name": "Medea",
@@ -1681,12 +1681,12 @@
       "grail_atk": 8344,
       "grail_hp": 12244,
       "growth_curve": "S",
-      "id": 33,
+      "id": "33",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0331.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0332.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0333.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0334.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0333.png",
+
       "max_atk": 5758,
       "max_hp": 8484,
       "name": "Hans Christian Andersen",
@@ -1735,12 +1735,12 @@
       "grail_atk": 8402,
       "grail_hp": 11661,
       "growth_curve": "S",
-      "id": 34,
+      "id": "34",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0341.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0342.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0343.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0344.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0343.png",
+
       "max_atk": 5798,
       "max_hp": 8080,
       "name": "William Shakespeare",
@@ -1789,12 +1789,12 @@
       "grail_atk": 9255,
       "grail_hp": 12495,
       "growth_curve": "Reverse S",
-      "id": 35,
+      "id": "35",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0351.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0352.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0353.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0354.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0353.png",
+
       "max_atk": 6839,
       "max_hp": 9216,
       "name": "Mephistopheles",
@@ -1843,12 +1843,12 @@
       "grail_atk": 8072,
       "grail_hp": 10990,
       "growth_curve": "Linear",
-      "id": 36,
+      "id": "36",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0361.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0362.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0363.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0364.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0363.png",
+
       "max_atk": 5195,
       "max_hp": 7129,
       "name": "Wolfgang Amadeus Mozart",
@@ -1897,12 +1897,12 @@
       "grail_atk": 11601,
       "grail_hp": 15621,
       "growth_curve": "S",
-      "id": 37,
+      "id": "37",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0371.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0372.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0373.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0374.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0373.png",
+
       "max_atk": 10598,
       "max_hp": 14259,
       "name": "Zhuge Liang (El-Melloi II)",
@@ -1951,12 +1951,12 @@
       "grail_atk": 8912,
       "grail_hp": 9588,
       "growth_curve": "Reverse S",
-      "id": 39,
+      "id": "39",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0391.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0392.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0393.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0394.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0393.png",
+
       "max_atk": 5735,
       "max_hp": 6220,
       "name": "Sasaki Kojiro",
@@ -2005,12 +2005,12 @@
       "grail_atk": 9100,
       "grail_hp": 10960,
       "growth_curve": "Linear",
-      "id": 40,
+      "id": "40",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0401.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0402.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0403.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0404.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0403.png",
+
       "max_atk": 6280,
       "max_hp": 7594,
       "name": "Hassan of the Cursed Arm",
@@ -2059,12 +2059,12 @@
       "grail_atk": 10879,
       "grail_hp": 13965,
       "growth_curve": "Linear",
-      "id": 41,
+      "id": "41",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0411.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0412.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0413.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0414.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0413.png",
+
       "max_atk": 8985,
       "max_hp": 11518,
       "name": "Stheno",
@@ -2113,12 +2113,12 @@
       "grail_atk": 9754,
       "grail_hp": 11244,
       "growth_curve": "Reverse S",
-      "id": 42,
+      "id": "42",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0421.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0422.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0423.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0424.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0423.png",
+
       "max_atk": 7207,
       "max_hp": 8293,
       "name": "Jing Ke",
@@ -2167,12 +2167,12 @@
       "grail_atk": 7906,
       "grail_hp": 11991,
       "growth_curve": "S",
-      "id": 43,
+      "id": "43",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0431.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0432.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0433.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0434.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0433.png",
+
       "max_atk": 5456,
       "max_hp": 8309,
       "name": "Charles-Henri Sanson",
@@ -2221,12 +2221,12 @@
       "grail_atk": 8193,
       "grail_hp": 12112,
       "growth_curve": "Linear",
-      "id": 44,
+      "id": "44",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0441.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0442.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0443.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0444.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0443.png",
+
       "max_atk": 5654,
       "max_hp": 8393,
       "name": "Phantom of the Opera",
@@ -2275,12 +2275,12 @@
       "grail_atk": 8355,
       "grail_hp": 10120,
       "growth_curve": "Reverse S",
-      "id": 45,
+      "id": "45",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0451.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0452.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0453.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0454.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0453.png",
+
       "max_atk": 5377,
       "max_hp": 6565,
       "name": "Mata Hari",
@@ -2329,12 +2329,12 @@
       "grail_atk": 11391,
       "grail_hp": 12698,
       "growth_curve": "S",
-      "id": 46,
+      "id": "46",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0461.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0462.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0463.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0464.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0463.png",
+
       "max_atk": 9408,
       "max_hp": 10473,
       "name": "Carmilla",
@@ -2383,12 +2383,12 @@
       "grail_atk": 12901,
       "grail_hp": 12521,
       "growth_curve": "Reverse S",
-      "id": 47,
+      "id": "47",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0471.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0472.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0473.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0474.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0473.png",
+
       "max_atk": 10655,
       "max_hp": 10327,
       "name": "Heracles",
@@ -2437,12 +2437,12 @@
       "grail_atk": 12685,
       "grail_hp": 12521,
       "growth_curve": "S",
-      "id": 48,
+      "id": "48",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0481.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0482.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0483.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0484.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0483.png",
+
       "max_atk": 10477,
       "max_hp": 10327,
       "name": "Lancelot",
@@ -2491,12 +2491,12 @@
       "grail_atk": 10988,
       "grail_hp": 11256,
       "growth_curve": "Reverse S",
-      "id": 49,
+      "id": "49",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0491.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0492.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0493.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0494.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0493.png",
+
       "max_atk": 8119,
       "max_hp": 8302,
       "name": "Lu Bu Fengxian",
@@ -2545,12 +2545,12 @@
       "grail_atk": 7883,
       "grail_hp": 11904,
       "growth_curve": "Reverse S",
-      "id": 50,
+      "id": "50",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0501.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0502.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0503.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0504.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0503.png",
+
       "max_atk": 5073,
       "max_hp": 7722,
       "name": "Spartacus",
@@ -2599,12 +2599,12 @@
       "grail_atk": 13915,
       "grail_hp": 13311,
       "growth_curve": "Reverse S",
-      "id": 51,
+      "id": "51",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0511.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0512.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0513.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0514.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0513.png",
+
       "max_atk": 12712,
       "max_hp": 12150,
       "name": "Sakata Kintoki",
@@ -2653,12 +2653,12 @@
       "grail_atk": 12587,
       "grail_hp": 15086,
       "growth_curve": "S",
-      "id": 52,
+      "id": "52",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0521.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0522.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0523.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0524.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0523.png",
+
       "max_atk": 11499,
       "max_hp": 13770,
       "name": "Vlad III",
@@ -2707,12 +2707,12 @@
       "grail_atk": 9381,
       "grail_hp": 10181,
       "growth_curve": "Linear",
-      "id": 53,
+      "id": "53",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0531.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0532.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0533.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0534.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0533.png",
+
       "max_atk": 6037,
       "max_hp": 6604,
       "name": "Asterios",
@@ -2761,12 +2761,12 @@
       "grail_atk": 9899,
       "grail_hp": 10540,
       "growth_curve": "S",
-      "id": 54,
+      "id": "54",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0541.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0542.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0543.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0544.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0543.png",
+
       "max_atk": 6831,
       "max_hp": 7303,
       "name": "Caligula",
@@ -2815,12 +2815,12 @@
       "grail_atk": 10297,
       "grail_hp": 11881,
       "growth_curve": "Linear",
-      "id": 55,
+      "id": "55",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0551.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0552.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0553.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0554.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0553.png",
+
       "max_atk": 7608,
       "max_hp": 8763,
       "name": "Darius III",
@@ -2869,12 +2869,12 @@
       "grail_atk": 8992,
       "grail_hp": 12428,
       "growth_curve": "Linear",
-      "id": 56,
+      "id": "56",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0561.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0562.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0563.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0564.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0563.png",
+
       "max_atk": 6644,
       "max_hp": 9166,
       "name": "Kiyohime",
@@ -2923,12 +2923,12 @@
       "grail_atk": 9115,
       "grail_hp": 11095,
       "growth_curve": "Linear",
-      "id": 57,
+      "id": "57",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0571.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0572.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0573.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0574.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0573.png",
+
       "max_atk": 6290,
       "max_hp": 7688,
       "name": "Eric Bloodaxe",
@@ -2977,12 +2977,12 @@
       "grail_atk": 10929,
       "grail_hp": 13893,
       "growth_curve": "Reverse S",
-      "id": 58,
+      "id": "58",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0581.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0582.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0583.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0584.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0583.png",
+
       "max_atk": 9026,
       "max_hp": 11458,
       "name": "Tamamo Cat",
@@ -3036,12 +3036,12 @@
       "grail_atk": 10501,
       "grail_hp": 18076,
       "growth_curve": "Reverse S",
-      "id": 59,
+      "id": "59",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0591.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0592.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0593.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0594.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0593.png",
+
       "max_atk": 9593,
       "max_hp": 16500,
       "name": "Jeanne d'Arc",
@@ -3100,12 +3100,12 @@
       "grail_atk": 12158,
       "grail_hp": 15943,
       "growth_curve": "Semi Reverse S",
-      "id": 60,
+      "id": "60",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0601.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0602.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0603.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0604.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0603.png",
+
       "max_atk": 11107,
       "max_hp": 14553,
       "name": "Orion",
@@ -3149,12 +3149,12 @@
       "grail_atk": 10432,
       "grail_hp": 13827,
       "growth_curve": "Semi Reverse S",
-      "id": 61,
+      "id": "61",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0611.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0612.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0613.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0614.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0613.png",
+
       "max_atk": 8616,
       "max_hp": 11404,
       "name": "Elisabeth Bathory (Halloween)",
@@ -3203,12 +3203,12 @@
       "grail_atk": 11544,
       "grail_hp": 15621,
       "growth_curve": "Linear",
-      "id": 62,
+      "id": "62",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0621.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0622.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0623.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0624.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0623.png",
+
       "max_atk": 10546,
       "max_hp": 14259,
       "name": "Tamamo no Mae",
@@ -3257,12 +3257,12 @@
       "grail_atk": 10470,
       "grail_hp": 11719,
       "growth_curve": "Semi Reverse S",
-      "id": 63,
+      "id": "63",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0631.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0632.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0633.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0634.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0633.png",
+
       "max_atk": 7736,
       "max_hp": 8643,
       "name": "David",
@@ -3311,12 +3311,12 @@
       "grail_atk": 9376,
       "grail_hp": 13829,
       "growth_curve": "Linear",
-      "id": 64,
+      "id": "64",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0641.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0642.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0643.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0644.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0643.png",
+
       "max_atk": 6928,
       "max_hp": 10200,
       "name": "Hektor",
@@ -3365,12 +3365,12 @@
       "grail_atk": 12398,
       "grail_hp": 14056,
       "growth_curve": "Reverse S",
-      "id": 65,
+      "id": "65",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0651.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0652.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0653.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0654.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0653.png",
+
       "max_atk": 11326,
       "max_hp": 12830,
       "name": "Francis Drake",
@@ -3419,12 +3419,12 @@
       "grail_atk": 10932,
       "grail_hp": 13684,
       "growth_curve": "Reverse S",
-      "id": 66,
+      "id": "66",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0661.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0662.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0663.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0664.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0663.png",
+
       "max_atk": 9029,
       "max_hp": 11286,
       "name": "Anne Bonny & Mary Read",
@@ -3473,12 +3473,12 @@
       "grail_atk": 9403,
       "grail_hp": 15847,
       "growth_curve": "Reverse S",
-      "id": 67,
+      "id": "67",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0671.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0672.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0673.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0674.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0673.png",
+
       "max_atk": 7766,
       "max_hp": 13070,
       "name": "Medea (Lily)",
@@ -3527,12 +3527,12 @@
       "grail_atk": 13210,
       "grail_hp": 14489,
       "growth_curve": "Reverse S",
-      "id": 68,
+      "id": "68",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0681.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0682.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0683.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0684.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0683.png",
+
       "max_atk": 12068,
       "max_hp": 13225,
       "name": "Okita Souji",
@@ -3576,12 +3576,12 @@
       "grail_atk": 11495,
       "grail_hp": 14110,
       "growth_curve": "Linear",
-      "id": 69,
+      "id": "69",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0691.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0692.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0693.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0694.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0693.png",
+
       "max_atk": 9494,
       "max_hp": 11637,
       "name": "Oda Nobunaga",
@@ -3630,12 +3630,12 @@
       "grail_atk": 12452,
       "grail_hp": 16241,
       "growth_curve": "Linear",
-      "id": 70,
+      "id": "70",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0701.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0702.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0703.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0704.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0703.png",
+
       "max_atk": 11375,
       "max_hp": 14825,
       "name": "Scathach",
@@ -3684,12 +3684,12 @@
       "grail_atk": 9307,
       "grail_hp": 13691,
       "growth_curve": "Reverse S",
-      "id": 71,
+      "id": "71",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0711.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0712.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0713.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0714.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0713.png",
+
       "max_atk": 6877,
       "max_hp": 10098,
       "name": "Diarmuid ua Duibhne",
@@ -3738,12 +3738,12 @@
       "grail_atk": 10096,
       "grail_hp": 13268,
       "growth_curve": "Semi Reverse S",
-      "id": 72,
+      "id": "72",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0721.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0722.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0723.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0724.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0723.png",
+
       "max_atk": 7460,
       "max_hp": 9786,
       "name": "Fergus mac Roich",
@@ -3792,12 +3792,12 @@
       "grail_atk": 10448,
       "grail_hp": 14407,
       "growth_curve": "Linear",
-      "id": 74,
+      "id": "74",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0741.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0742.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0743.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0744.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0743.png",
+
       "max_atk": 8629,
       "max_hp": 11882,
       "name": "Nursery Rhyme",
@@ -3846,12 +3846,12 @@
       "grail_atk": 12651,
       "grail_hp": 13909,
       "growth_curve": "Semi Reverse S",
-      "id": 75,
+      "id": "75",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0751.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0752.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0753.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0754.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0753.png",
+
       "max_atk": 11557,
       "max_hp": 12696,
       "name": "Jack the Ripper",
@@ -3900,12 +3900,12 @@
       "grail_atk": 12833,
       "grail_hp": 16083,
       "growth_curve": "Semi Reverse S",
-      "id": 76,
+      "id": "76",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0761.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0762.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0763.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0764.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0763.png",
+
       "max_atk": 11723,
       "max_hp": 14680,
       "name": "Mordred",
@@ -3954,12 +3954,12 @@
       "grail_atk": 12896,
       "grail_hp": 15146,
       "growth_curve": "Reverse S",
-      "id": 77,
+      "id": "77",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0771.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0772.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0773.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0774.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0773.png",
+
       "max_atk": 11781,
       "max_hp": 13825,
       "name": "Nikola Tesla",
@@ -4008,12 +4008,12 @@
       "grail_atk": 9082,
       "grail_hp": 12889,
       "growth_curve": "Linear",
-      "id": 79,
+      "id": "79",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0791.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0792.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0793.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0794.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0793.png",
+
       "max_atk": 6711,
       "max_hp": 9506,
       "name": "Paracelsus von Hohenheim",
@@ -4062,12 +4062,12 @@
       "grail_atk": 8115,
       "grail_hp": 14761,
       "growth_curve": "S",
-      "id": 80,
+      "id": "80",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0801.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0802.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0803.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0804.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0803.png",
+
       "max_atk": 5996,
       "max_hp": 10887,
       "name": "Charles Babbage",
@@ -4116,12 +4116,12 @@
       "grail_atk": 8553,
       "grail_hp": 13118,
       "growth_curve": "Linear",
-      "id": 81,
+      "id": "81",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0811.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0812.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0813.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0814.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0813.png",
+
       "max_atk": 6320,
       "max_hp": 9675,
       "name": "Henry Jekyll & Hyde",
@@ -4170,12 +4170,12 @@
       "grail_atk": 11431,
       "grail_hp": 12958,
       "growth_curve": "Semi Reverse S",
-      "id": 82,
+      "id": "82",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0821.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0822.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0823.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0824.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0823.png",
+
       "max_atk": 9441,
       "max_hp": 10687,
       "name": "Frankenstein",
@@ -4224,12 +4224,12 @@
       "grail_atk": 13510,
       "grail_hp": 14494,
       "growth_curve": "Semi Reverse S",
-      "id": 84,
+      "id": "84",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0841.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0842.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0843.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0844.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0843.png",
+
       "max_atk": 12342,
       "max_hp": 13230,
       "name": "Arjuna",
@@ -4278,12 +4278,12 @@
       "grail_atk": 13110,
       "grail_hp": 14934,
       "growth_curve": "Reverse S",
-      "id": 85,
+      "id": "85",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0851.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0852.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0853.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0854.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0853.png",
+
       "max_atk": 11976,
       "max_hp": 13632,
       "name": "Karna",
@@ -4332,12 +4332,12 @@
       "grail_atk": 12874,
       "grail_hp": 13909,
       "growth_curve": "Linear",
-      "id": 86,
+      "id": "86",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0861.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0862.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0863.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0864.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0863.png",
+
       "max_atk": 11761,
       "max_hp": 12696,
       "name": "Mysterious Heroine X",
@@ -4386,12 +4386,12 @@
       "grail_atk": 10812,
       "grail_hp": 15459,
       "growth_curve": "Reverse S",
-      "id": 87,
+      "id": "87",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0871.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0872.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0873.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0874.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0873.png",
+
       "max_atk": 8930,
       "max_hp": 12750,
       "name": "Fionn mac Cumhaill",
@@ -4440,12 +4440,12 @@
       "grail_atk": 12514,
       "grail_hp": 16241,
       "growth_curve": "Semi Reverse S",
-      "id": 88,
+      "id": "88",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0881.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0882.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0883.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0884.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0883.png",
+
       "max_atk": 11432,
       "max_hp": 14825,
       "name": "Brynhild",
@@ -4494,12 +4494,12 @@
       "grail_atk": 12407,
       "grail_hp": 12521,
       "growth_curve": "Linear",
-      "id": 89,
+      "id": "89",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0891.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0892.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0893.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0894.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0893.png",
+
       "max_atk": 10247,
       "max_hp": 10327,
       "name": "Beowulf",
@@ -4548,12 +4548,12 @@
       "grail_atk": 12706,
       "grail_hp": 15609,
       "growth_curve": "Reverse S",
-      "id": 90,
+      "id": "90",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0901.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0902.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0903.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0904.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0903.png",
+
       "max_atk": 11607,
       "max_hp": 14248,
       "name": "Nero Claudius (Bride)",
@@ -4602,12 +4602,12 @@
       "grail_atk": 11736,
       "grail_hp": 16929,
       "growth_curve": "S",
-      "id": 91,
+      "id": "91",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0911.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0912.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0913.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0914.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0913.png",
+
       "max_atk": 10721,
       "max_hp": 15453,
       "name": "Ryougi Shiki (Saber)",
@@ -4661,12 +4661,12 @@
       "grail_atk": 12011,
       "grail_hp": 15455,
       "growth_curve": "Reverse S",
-      "id": 93,
+      "id": "93",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0931.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0932.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0933.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0934.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0933.png",
+
       "max_atk": 10972,
       "max_hp": 14107,
       "name": "Amakusa Shirou",
@@ -4725,12 +4725,12 @@
       "grail_atk": 10821,
       "grail_hp": 13456,
       "growth_curve": "Semi Reverse S",
-      "id": 94,
+      "id": "94",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0941.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0942.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0943.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0944.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0943.png",
+
       "max_atk": 8937,
       "max_hp": 11172,
       "name": "Astolfo",
@@ -4778,12 +4778,12 @@
       "grail_atk": 10415,
       "grail_hp": 11838,
       "growth_curve": "Reverse S",
-      "id": 95,
+      "id": "95",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0951.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0952.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0953.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0954.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0953.png",
+
       "max_atk": 7696,
       "max_hp": 8731,
       "name": "Kid Gilgamesh",
@@ -4831,12 +4831,12 @@
       "grail_atk": 13838,
       "grail_hp": 13340,
       "growth_curve": "S",
-      "id": 96,
+      "id": "96",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0961.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0962.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0963.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0964.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0963.png",
+
       "max_atk": 12641,
       "max_hp": 12177,
       "name": "Edmond Dantes",
@@ -4880,12 +4880,12 @@
       "grail_atk": 11148,
       "grail_hp": 16675,
       "growth_curve": "Reverse S",
-      "id": 97,
+      "id": "97",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0971.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0972.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0973.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0974.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0973.png",
+
       "max_atk": 10184,
       "max_hp": 15221,
       "name": "Nightingale",
@@ -4934,12 +4934,12 @@
       "grail_atk": 14017,
       "grail_hp": 13377,
       "growth_curve": "Reverse S",
-      "id": 98,
+      "id": "98",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0981.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0982.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0983.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0984.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0983.png",
+
       "max_atk": 12805,
       "max_hp": 12210,
       "name": "Cu Chulainn (Alter)",
@@ -4988,12 +4988,12 @@
       "grail_atk": 11270,
       "grail_hp": 15303,
       "growth_curve": "Linear",
-      "id": 99,
+      "id": "99",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0991.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0992.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0993.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0994.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0993.png",
+
       "max_atk": 10296,
       "max_hp": 13968,
       "name": "Queen Medb",
@@ -5042,12 +5042,12 @@
       "grail_atk": 10448,
       "grail_hp": 14407,
       "growth_curve": "Linear",
-      "id": 100,
+      "id": "100",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/1001.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/1002.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/1003.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/1004.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_01003.png",
+
       "max_atk": 8629,
       "max_hp": 11882,
       "name": "Helena Blavatsky",
@@ -5096,12 +5096,12 @@
       "grail_atk": 11931,
       "grail_hp": 14541,
       "growth_curve": "Semi Reverse S",
-      "id": 101,
+      "id": "101",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/1011.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/1012.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/1013.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/1014.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_01013.png",
+
       "max_atk": 9854,
       "max_hp": 11993,
       "name": "Rama",
@@ -5150,12 +5150,12 @@
       "grail_atk": 11688,
       "grail_hp": 13774,
       "growth_curve": "S",
-      "id": 102,
+      "id": "102",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/1021.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/1022.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/1023.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/1024.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_01023.png",
+
       "max_atk": 9653,
       "max_hp": 11360,
       "name": "Li Shuwen",
@@ -5204,12 +5204,12 @@
       "grail_atk": 9628,
       "grail_hp": 14407,
       "growth_curve": "Semi Reverse S",
-      "id": 103,
+      "id": "103",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/1031.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/1032.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/1033.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/1034.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_01033.png",
+
       "max_atk": 7952,
       "max_hp": 11882,
       "name": "Thomas Edison",
@@ -5258,12 +5258,12 @@
       "grail_atk": 9280,
       "grail_hp": 12369,
       "growth_curve": "Linear",
-      "id": 104,
+      "id": "104",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/1041.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/1042.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/1043.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/1044.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_01043.png",
+
       "max_atk": 6857,
       "max_hp": 9123,
       "name": "Geronimo",
@@ -5312,12 +5312,12 @@
       "grail_atk": 9325,
       "grail_hp": 12889,
       "growth_curve": "Linear",
-      "id": 105,
+      "id": "105",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/1051.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/1052.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/1053.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/1054.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_01053.png",
+
       "max_atk": 6890,
       "max_hp": 9506,
       "name": "Billy the Kid",
@@ -5366,12 +5366,12 @@
       "grail_atk": 10816,
       "grail_hp": 14889,
       "growth_curve": "S",
-      "id": 32,
+      "id": "32",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0321.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0322.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0323.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0324.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0323.png",
+
       "max_atk": 6514,
       "max_hp": 9506,
       "name": "Gilles de Rais (Caster)",
@@ -5420,12 +5420,12 @@
       "grail_atk": 8905,
       "grail_hp": 13022,
       "growth_curve": "Reverse S",
-      "id": 38,
+      "id": "38",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0381.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0382.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0383.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0384.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0383.png",
+
       "max_atk": 6580,
       "max_hp": 9604,
       "name": "Cu Chulainn (Caster)",
@@ -5469,12 +5469,12 @@
       "grail_atk": 11209,
       "grail_hp": 13684,
       "growth_curve": "Reverse S",
-      "id": 73,
+      "id": "73",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0731.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0732.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0733.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0734.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0733.png",
+
       "max_atk": 9258,
       "max_hp": 11286,
       "name": "Altria Pendragon (Santa Alter)",
@@ -5523,12 +5523,12 @@
       "grail_atk": 12069,
       "grail_hp": 14260,
       "growth_curve": "Reverse S",
-      "id": 78,
+      "id": "78",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0781.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0782.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0783.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0784.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0783.png",
+
       "max_atk": 9968,
       "max_hp": 11761,
       "name": "Altria Pendragon (Lancer Alter)",
@@ -5572,12 +5572,12 @@
       "grail_atk": 10736,
       "grail_hp": 13404,
       "growth_curve": "Linear",
-      "id": 92,
+      "id": "92",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/0921.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/0922.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/0923.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/0924.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0923.png",
+
       "max_atk": 8867,
       "max_hp": 11055,
       "name": "Ryougi Shiki (Assassin)",
@@ -5626,12 +5626,12 @@
       "grail_atk": 13210,
       "grail_hp": 14489,
       "growth_curve": "Reverse S",
-      "id": 153,
+      "id": "153",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/1531.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/1532.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/1533.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/1534.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_1533.png",
+
       "max_atk": 12068,
       "max_hp": 13225,
       "name": "Miyamoto Musashi",
@@ -5681,12 +5681,12 @@
       "grail_atk": 13511,
       "grail_hp": 15236,
       "growth_curve": "Linear",
-      "id": 209,
+      "id": "209",
       "img1": "https://fate-go.cirnopedia.org/icons/servant_card/2091.jpg",
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/2092.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/2093.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/2094.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_2093.png",
+
       "max_atk": 12343,
       "max_hp": 13907,
       "name": "Okita Souji (Alter)",
@@ -5740,7 +5740,7 @@
       "img2": "https://fate-go.cirnopedia.org/icons/servant_card/2222.jpg",
       "img3": "https://fate-go.cirnopedia.org/icons/servant_card/2223.jpg",
       "img4": "https://fate-go.cirnopedia.org/icons/servant_card/2224.jpg",
-      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_2223.png",
+
       "max_atk": 11557,
       "max_hp": 12696,
       "name": "Mysterious Heroine XX",
@@ -5765,6 +5765,436 @@
         [9, "claw_of_chaos", 15],
         [10, "crystallized_lore", 1]
       ]
+    }
+  ],
+  "avatars": [
+    {
+      "id": "1",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0014.png"
+    },
+    {
+      "id": "2",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0023.png"
+    },
+    {
+      "id": "3",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0033.png"
+    },
+    {
+      "id": "4",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0043.png"
+    },
+    {
+      "id": "5",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0053.png"
+    },
+    {
+      "id": "6",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0063.png"
+    },
+    {
+      "id": "7",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0073.png"
+    },
+    {
+      "id": "8",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0083.png"
+    },
+    {
+      "id": "9",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0093.png"
+    },
+    {
+      "id": "10",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0103.png"
+    },
+    {
+      "id": "11",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0113.png"
+    },
+    {
+      "id": "12",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0123.png"
+    },
+    {
+      "id": "13",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0133.png"
+    },
+    {
+      "id": "14",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0143.png"
+    },
+    {
+      "id": "15",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0153.png"
+    },
+    {
+      "id": "16",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0163.png"
+    },
+    {
+      "id": "17",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0173.png"
+    },
+    {
+      "id": "18",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0183.png"
+    },
+    {
+      "id": "19",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0193.png"
+    },
+    {
+      "id": "20",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0203.png"
+    },
+    {
+      "id": "21",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0213.png"
+    },
+    {
+      "id": "22",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0223.png"
+    },
+    {
+      "id": "23",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0233.png"
+    },
+    {
+      "id": "24",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0243.png"
+    },
+    {
+      "id": "25",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0253.png"
+    },
+    {
+      "id": "26",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0263.png"
+    },
+    {
+      "id": "27",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0273.png"
+    },
+    {
+      "id": "28",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0283.png"
+    },
+    {
+      "id": "29",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0293.png"
+    },
+    {
+      "id": "30",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0303.png"
+    },
+    {
+      "id": "31",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0313.png"
+    },
+    {
+      "id": "33",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0333.png"
+    },
+    {
+      "id": "34",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0343.png"
+    },
+    {
+      "id": "35",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0353.png"
+    },
+    {
+      "id": "36",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0363.png"
+    },
+    {
+      "id": "37",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0373.png"
+    },
+    {
+      "id": "39",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0393.png"
+    },
+    {
+      "id": "40",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0403.png"
+    },
+    {
+      "id": "41",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0413.png"
+    },
+    {
+      "id": "42",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0423.png"
+    },
+    {
+      "id": "43",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0433.png"
+    },
+    {
+      "id": "44",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0443.png"
+    },
+    {
+      "id": "45",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0453.png"
+    },
+    {
+      "id": "46",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0463.png"
+    },
+    {
+      "id": "47",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0473.png"
+    },
+    {
+      "id": "48",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0483.png"
+    },
+    {
+      "id": "49",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0493.png"
+    },
+    {
+      "id": "50",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0503.png"
+    },
+    {
+      "id": "51",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0513.png"
+    },
+    {
+      "id": "52",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0523.png"
+    },
+    {
+      "id": "53",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0533.png"
+    },
+    {
+      "id": "54",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0543.png"
+    },
+    {
+      "id": "55",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0553.png"
+    },
+    {
+      "id": "56",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0563.png"
+    },
+    {
+      "id": "57",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0573.png"
+    },
+    {
+      "id": "58",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0583.png"
+    },
+    {
+      "id": "59",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0593.png"
+    },
+    {
+      "id": "60",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0603.png"
+    },
+    {
+      "id": "61",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0613.png"
+    },
+    {
+      "id": "62",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0623.png"
+    },
+    {
+      "id": "63",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0633.png"
+    },
+    {
+      "id": "64",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0643.png"
+    },
+    {
+      "id": "65",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0653.png"
+    },
+    {
+      "id": "66",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0663.png"
+    },
+    {
+      "id": "67",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0673.png"
+    },
+    {
+      "id": "68",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0683.png"
+    },
+    {
+      "id": "69",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0693.png"
+    },
+    {
+      "id": "70",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0703.png"
+    },
+    {
+      "id": "71",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0713.png"
+    },
+    {
+      "id": "72",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0723.png"
+    },
+    {
+      "id": "74",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0743.png"
+    },
+    {
+      "id": "75",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0753.png"
+    },
+    {
+      "id": "76",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0763.png"
+    },
+    {
+      "id": "77",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0773.png"
+    },
+    {
+      "id": "79",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0793.png"
+    },
+    {
+      "id": "80",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0803.png"
+    },
+    {
+      "id": "81",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0813.png"
+    },
+    {
+      "id": "82",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0823.png"
+    },
+    {
+      "id": "84",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0843.png"
+    },
+    {
+      "id": "85",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0853.png"
+    },
+    {
+      "id": "86",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0863.png"
+    },
+    {
+      "id": "87",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0873.png"
+    },
+    {
+      "id": "88",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0883.png"
+    },
+    {
+      "id": "89",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0893.png"
+    },
+    {
+      "id": "90",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0903.png"
+    },
+    {
+      "id": "91",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0913.png"
+    },
+    {
+      "id": "93",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0933.png"
+    },
+    {
+      "id": "94",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0943.png"
+    },
+    {
+      "id": "95",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0953.png"
+    },
+    {
+      "id": "96",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0963.png"
+    },
+    {
+      "id": "97",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0973.png"
+    },
+    {
+      "id": "98",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0983.png"
+    },
+    {
+      "id": "99",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0993.png"
+    },
+    {
+      "id": "100",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_01003.png"
+    },
+    {
+      "id": "101",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_01013.png"
+    },
+    {
+      "id": "102",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_01023.png"
+    },
+    {
+      "id": "103",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_01033.png"
+    },
+    {
+      "id": "104",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_01043.png"
+    },
+    {
+      "id": "105",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_01053.png"
+    },
+    {
+      "id": "32",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0323.png"
+    },
+    {
+      "id": "38",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0383.png"
+    },
+    {
+      "id": "73",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0733.png"
+    },
+    {
+      "id": "78",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0783.png"
+    },
+    {
+      "id": "92",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_0923.png"
+    },
+    {
+      "id": "153",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_1533.png"
+    },
+    {
+      "id": "209",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_2093.png"
+    },
+    {
+      "id": "222",
+      "icon": "https://fate-go.cirnopedia.org/icons/servant/servant_2223.png"
     }
   ]
 }

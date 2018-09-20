@@ -7,9 +7,10 @@ const Wrapper = styled.section`
   border: 4px solid red;
   padding: 0.5rem;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   grid-gap: 0.5rem;
   overflow-y: scroll;
+  height: 100%;
 `;
 
 class PerformantList extends PureComponent {
