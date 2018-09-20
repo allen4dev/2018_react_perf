@@ -3,6 +3,7 @@ import { Provider } from 'react-redux';
 import { ThemeProvider } from 'styled-components';
 
 import Home from 'components/pages/Home';
+// import Layout from 'playgrounds/virtualized/Layout';
 
 import theme from './theme';
 

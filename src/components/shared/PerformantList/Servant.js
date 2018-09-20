@@ -21,10 +21,10 @@ const Img = styled.img`
 
 class Servant extends Component {
   render() {
-    const { servant } = this.props;
+    const { servant, style } = this.props;
 
     return (
-      <Wrapper>
+      <Wrapper style={style}>
         <Title>{servant.name}</Title>
         <Photo>
           <Img src={servant.img4} />
