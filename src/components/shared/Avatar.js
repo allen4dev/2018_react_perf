@@ -1,9 +1,34 @@
 import React, { Component } from 'react';
+import { connect } from 'react-redux';
+import styled from 'styled-components';
+
+const Photo = styled.figure``;
+const Img = styled.img`
+  display: block;
+  max-width: 100%;
+`;
 
 class Avatar extends Component {
   render() {
-    return <div>{this.props.id}</div>;
+    const { avatar } = this.props;
+    return (
+      <Photo>
+        <Img src={avatar.icon} />
+      </Photo>
+    );
   }
 }
 
-export default Avatar;
+const makeMapStateToProps = (initialState, initialOwnProps) => {
+  const { id } = initialOwnProps;
+
+  const mapStateToProps = state => {
+    return {
+      avatar: state.avatars.entities[id],
+    };
+  };
+
+  return mapStateToProps;
+};
+
+export default connect(makeMapStateToProps)(Avatar);
