@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import styled from 'styled-components';
 
-import PerformantList from 'components/shared/PerformantList';
+import AvatarList from 'components/shared/AvatarList';
 
-import { fetchAll } from 'actions/servants';
+import { fetchAvatars } from 'actions/avatars';
 
 const Wrapper = styled.section`
   width: 80vw;
@@ -17,10 +17,10 @@ class Home extends Component {
   };
 
   async componentDidMount() {
-    const { byId, fetchAll } = this.props;
+    const { byId, fetchAvatars } = this.props;
 
     if (byId.length === 0) {
-      await fetchAll();
+      await fetchAvatars();
     }
     this.setState({ loading: false });
   }
@@ -32,14 +32,14 @@ class Home extends Component {
 
     return (
       <Wrapper>
-        <PerformantList ids={byId} />
+        <AvatarList ids={byId} />
       </Wrapper>
     );
   }
 }
 
 function mapStateToProps(state) {
-  const { byId } = state.servants;
+  const { byId } = state.avatars;
 
   return {
     byId,
@@ -48,5 +48,5 @@ function mapStateToProps(state) {
 
 export default connect(
   mapStateToProps,
-  { fetchAll },
+  { fetchAvatars },
 )(Home);
