@@ -1,8 +1,8 @@
 import React, { Component, Fragment } from 'react';
 import styled from 'styled-components';
+import Loadable from 'react-loadable';
 
 import Avatar from './Avatar';
-import Modal from './Modal';
 import ServantCard from './ServantCard';
 import Toggle from './Toggle';
 
@@ -14,6 +14,15 @@ const List = styled.section`
   grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
   grid-gap: 0.5rem;
 `;
+
+const LoadingComponent = () => {
+  return <h1>Loading...</h1>;
+};
+
+const LoadableModal = Loadable({
+  loader: () => import('./Modal.js'),
+  loading: LoadingComponent,
+});
 
 class AvatarList extends Component {
   state = {
@@ -42,9 +51,9 @@ class AvatarList extends Component {
                   ))}
                 </List>
                 {on && (
-                  <Modal close={toggle}>
+                  <LoadableModal close={toggle}>
                     <ServantCard id={this.state.selected} />
-                  </Modal>
+                  </LoadableModal>
                 )}
               </Fragment>
             );
