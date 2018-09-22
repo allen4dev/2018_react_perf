@@ -1,6 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
 
+import Portal from './Portal';
+
 const Wrapper = styled.section`
   background-color: rgba(0, 0, 0, 0.5);
   position: relative;
@@ -24,10 +26,12 @@ const Close = styled.button`
 
 const Modal = ({ children, close }) => {
   return (
-    <Wrapper>
-      <Close onClick={close}>X</Close>
-      {children}
-    </Wrapper>
+    <Portal>
+      <Wrapper>
+        <Close onClick={close}>X</Close>
+        {children}
+      </Wrapper>
+    </Portal>
   );
 };
 
