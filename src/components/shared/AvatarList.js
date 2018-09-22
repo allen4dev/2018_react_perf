@@ -2,8 +2,8 @@ import React, { Component, Fragment } from 'react';
 import styled from 'styled-components';
 import Loadable from 'react-loadable';
 
+import Modal from './Modal';
 import Avatar from './Avatar';
-import ServantCard from './ServantCard';
 import Toggle from './Toggle';
 
 const Wrapper = styled.section``;
@@ -19,8 +19,8 @@ const LoadingComponent = () => {
   return <h1>Loading...</h1>;
 };
 
-const LoadableModal = Loadable({
-  loader: () => import('./Modal.js'),
+const LoadableServantCard = Loadable({
+  loader: () => import('./ServantCard.js'),
   loading: LoadingComponent,
 });
 
@@ -51,9 +51,9 @@ class AvatarList extends Component {
                   ))}
                 </List>
                 {on && (
-                  <LoadableModal close={toggle}>
-                    <ServantCard id={this.state.selected} />
-                  </LoadableModal>
+                  <Modal close={toggle}>
+                    <LoadableServantCard id={this.state.selected} />
+                  </Modal>
                 )}
               </Fragment>
             );
