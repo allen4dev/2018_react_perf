@@ -9,10 +9,18 @@ const Img = styled.img`
 `;
 
 class Avatar extends Component {
+  select = () => {
+    const { onClick } = this.props;
+
+    this.props.select(this.props.id);
+    onClick && this.props.onClick();
+  };
+
   render() {
     const { avatar } = this.props;
+
     return (
-      <Photo>
+      <Photo onClick={this.select}>
         <Img src={avatar.icon} />
       </Photo>
     );

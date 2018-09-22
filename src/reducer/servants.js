@@ -1,4 +1,4 @@
-import { ADD_SERVANTS } from '../actions/servants';
+import { ADD_SERVANTS, ADD_SERVANT } from '../actions/servants';
 import { combineReducers } from 'redux';
 
 const INITIAL_STATE = {
@@ -9,6 +9,7 @@ const INITIAL_STATE = {
 function entitiesReducer(state = INITIAL_STATE.entities, action) {
   switch (action.type) {
     case ADD_SERVANTS:
+    case ADD_SERVANT:
       return {
         ...state,
         ...action.payload.entities.servants,
@@ -23,6 +24,9 @@ function byIdReducer(state = INITIAL_STATE.byId, action) {
   switch (action.type) {
     case ADD_SERVANTS:
       return [...state, ...action.payload.result];
+
+    case ADD_SERVANT:
+      return [...state, action.payload.result];
 
     default:
       return state;

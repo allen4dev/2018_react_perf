@@ -9,6 +9,10 @@ export default {
     async all() {
       return await axios.get(servantsUrl);
     },
+
+    async single(id) {
+      return await axios.get(`${servantsUrl}/${id}`);
+    },
   },
 
   avatars: {
