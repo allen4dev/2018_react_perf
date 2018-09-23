@@ -17,10 +17,10 @@ class Avatar extends Component {
   };
 
   render() {
-    const { avatar } = this.props;
+    const { avatar, onMouseOver } = this.props;
 
     return (
-      <Photo onClick={this.select}>
+      <Photo onMouseOver={onMouseOver} onClick={this.select}>
         <Img src={avatar.icon} />
       </Photo>
     );

@@ -33,6 +33,10 @@ class AvatarList extends Component {
     this.setState({ selected: id });
   };
 
+  onMouseOver = () => {
+    LoadableServantCard.preload();
+  };
+
   render() {
     return (
       <Wrapper>
@@ -47,6 +51,7 @@ class AvatarList extends Component {
                       id={id}
                       onClick={toggle}
                       select={this.selectServant}
+                      onMouseOver={this.onMouseOver}
                     />
                   ))}
                 </List>
